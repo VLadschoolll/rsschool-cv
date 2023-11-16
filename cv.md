@@ -13,3 +13,25 @@ My main goal is to gain new skills and knowledge in order to become a strong for
 * CSS(Basic)
 * JavaScript(Basic)
 * Git(Basic)
+
+## Code Example
+```
+    <style>
+        .relative-position{
+        position: relative;
+        top: 100px;
+        bottom: 200px;
+        left: 50px;
+        }
+    </style>
+    <div class="relative-position">Hello World</div>
+```
+## Education
+* University: Stolin State Agrarian Economic College
+    * Specialty: Information technology software
+## Courses:
+* Code Basics
+* Javascript.ru
+## Language
+* English - A2
+* Russian - Native
